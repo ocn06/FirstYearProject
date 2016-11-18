@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<browserconfig>
+	<msapplication>
+		<tile>
+			<square70x70logo/>
+			<square150x150logo src="https://www.studiz.dk/mstile-150x150.png"/>
+			<square310x310logo/>
+			<wide310x150logo/>
+			<TileColor>#da532c</TileColor>
+			<selection>\squaretile.png</selection></tile>
+		<config><site src="https://www.studiz.dk/"/><source src="https://www.studiz.dk/browserconfig.xml"/><accdate>0x2bd75980,0x01d19163</accdate><date>0x2bccf754,0x01d19163</date></config></msapplication>
+</browserconfig>
